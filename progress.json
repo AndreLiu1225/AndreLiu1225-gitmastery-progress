@@ -242,23 +242,5 @@
       "Good work reverting commits!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787577134.211037,
-    "completed_at": 1787577138.188267,
-    "comments": [
-      "You do not have 2 commits on the bug-fix branch"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787577208.650607,
-    "completed_at": 1787577212.7423,
-    "comments": [
-      "You do not have 2 commits on the bug-fix branch"
-    ],
-    "status": "Incomplete"
   }
 ]

@@ -314,5 +314,14 @@
       "You should be using squash merges for both 'feature-search' and 'feature-delete'"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787580963.816506,
+    "completed_at": 1787580967.688228,
+    "comments": [
+      "You should be using squash merges for both 'feature-search' and 'feature-delete'"
+    ],
+    "status": "Incomplete"
   }
 ]
